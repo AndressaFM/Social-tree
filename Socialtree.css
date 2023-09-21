@@ -1,0 +1,61 @@
+body{
+    background-color: #E5E5E5;
+    font-weight: 300 600;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+.Perfil{
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+     margin-top: 207px;
+     margin-left: 619px;
+     border: solid 2px rgba(187, 153, 221, 1);
+     color: rgba(187, 153, 221, 1);
+     stroke: solid #bb99dd;
+     padding: 1px;
+    }
+
+
+
+aside{
+    width: 99px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left: 669px;
+    color: #bb99dd;   
+}
+
+.Link{
+    width: 47px;
+    height: 24px;
+    margin-top: 16px;
+    margin-left: 556px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    padding-left: 139px;
+    padding-right: 149px;
+    border: solid #bb99dd;
+    border-radius: 4px;
+
+}
+
+ .assents{
+    display: inline;
+    width: 47px;
+    height: 24px;
+    margin-top: 16px;
+    margin-left: 500px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    padding-left: 139px;
+    padding-right: 149px;
+ }
+
+ a {
+    text-decoration: none;
+ }
+ 
+
+
